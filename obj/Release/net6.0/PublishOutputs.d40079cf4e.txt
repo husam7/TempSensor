@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\TempSensor.exe
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\TempSensor.dll
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\TempSensor.deps.json
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\TempSensor.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\TempSensor.pdb
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\source\repos\TempSensor\TempSensor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

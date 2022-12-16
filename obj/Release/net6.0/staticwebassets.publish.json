@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K0zEDttu5lnX9Isfj7GUaaBPdgocQTbnmRfBKxpnQhs=",
+  "Source": "TempSensor",
+  "BasePath": "_content/TempSensor",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
